@@ -1,9 +1,13 @@
-### Hi there 👋
+#### Hi there 👋 This is **MIR SADIA AFRIN** :bowtie:
+
+- #### 🌱 I’m currently learning **_Python, Machine Learning, CNN_**
+- #### :four_leaf_clover: I'm interested in **_UX/UI/Graphic Design/Video Editing, Robotics, Astronomy_**
+- #### 📫 How to reach me: **_sadia.afrin17@northsouth.edu || mirayonff567@gmail.com_**
+
+### :star2: GOD BLESS YOU!!! :innocent:
 
 <!--
 **mirafrinayon/mirafrinayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
