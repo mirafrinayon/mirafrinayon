@@ -2,7 +2,7 @@
 
 - #### 🌱 I’m currently learning **_Python, Machine Learning, CNN_**
 - #### :four_leaf_clover: I'm interested in **_UX/UI/Graphic Design/Video Editing, Robotics_**
-- #### 📫 How to reach me: **_mirafrinayon23@gmail.com || sadia.afrin17@northsouth.edu_**
+- #### 📫 How to reach me: **_mirafrinayon23@gmail.com || mirsadia.afrin@students.mq.edu.au_**
 
 #### :star2: GOD BLESS YOU!!! :innocent:
 
