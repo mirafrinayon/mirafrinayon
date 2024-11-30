@@ -1,6 +1,6 @@
 #### Hi there 👋 This is **MIR SADIA AFRIN** :bowtie:
 
-- #### 🌱 I’m currently doing Master of Information Technology in Artificial Intelligence **_Python_**
+- #### 🌱 I’m currently doing **_Master of Information Technology in Artificial Intelligence_**
 - #### :four_leaf_clover: I'm interested in **_Graphic Design/Video Editing/UX/UI, Robotics_**
 - #### 📫 How to reach me: **_mirafrinayon23@gmail.com || mirsadia.afrin@students.mq.edu.au_**
 
